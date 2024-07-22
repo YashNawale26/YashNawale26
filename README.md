@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, SQL, MERN, Cloud**
 
-- 📫 How to reach me **onkaryemul2003@gmail.com**
+- 📫 How to reach me **yashnawale2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
