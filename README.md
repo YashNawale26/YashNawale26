@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Java, SQL, MERN, Cloud**
+- 💬 Ask me about **Java, SQL, Machine Learning**
 
 - 📫 How to reach me **yashnawale2003@gmail.com**
 
